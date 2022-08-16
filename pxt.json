@@ -2,13 +2,15 @@
     "name": "HTML For Arcade",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "git": "github:cutemrmerp/git#master"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "html.ts"
     ],
     "testFiles": [
         "test.ts"
